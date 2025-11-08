@@ -62,3 +62,9 @@ nav .right a {
 .main-section .text .links {
   margin-top: 25px;
 }
+.headshot {
+  width: 2px;
+}
+.image {
+  width: 400px;
+}
