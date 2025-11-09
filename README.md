@@ -17,5 +17,5 @@ Other Tools: Git, GitHub, REST APIs
 
 📫 Contact
 Email: athuljyothi@gmail.com
-LinkedIn: linkedin.com/in/athuljyothi
+LinkedIn: www.linkedin.com/in/athul-jyothi-k-p-a84860257
 GitHub: github.com/Athul-jyothi
