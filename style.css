@@ -1,7 +1,7 @@
 :root {
   --text-color: #1a1c20;
   --link-color: #4a76ee;
-  --background-color: #eeeff1;
+  --background-color: #f1eeef;
 }
 
 * {
@@ -157,7 +157,7 @@ nav .right a {
   width: 350px;
   aspect-ratio: 1/1;
   object-fit: cover;
-  border-radius: 30px;
+  border-radius: 50px;
   margin-bottom: 10px;
 }
 .project-section .text {
